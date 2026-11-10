@@ -1,0 +1,14 @@
+# Rolling index: recent deposits only. Older reports are not indexed here.
+# fields: record | token | published | excerpt
+record	token	published	excerpt
+VPX-2026-0326v1	JUNIPERLACE	2026-04-08	JUNIPERLACE reports Permeability regression from 2D slices. Snapshot of VPX-2026-0326v1.
+VPX-2026-0381v1	KELPRIDER	2026-04-30	KELPRIDER reports Sparse sonar survey planning study. Snapshot of VPX-2026-0381v1.
+VPX-2026-0437v1	LUMENQUILL	2026-05-21	LUMENQUILL reports Entity extraction on 1,200 notebook pages. Snapshot of VPX-2026-0437v1.
+VPX-2026-0492v1	MOSSGLIDE	2026-06-09	MOSSGLIDE reports Friction model for silicone contact pairs. Snapshot of VPX-2026-0492v1.
+VPX-2026-0548v1	NIGHTREED	2026-07-01	NIGHTREED reports Wake-word study at 78 dB plant noise. Snapshot of VPX-2026-0548v1.
+VPX-2026-0603v1	ORCHIDVANE	2026-07-23	ORCHIDVANE reports Mixing efficiency across 5 channel geometries. Snapshot of VPX-2026-0603v1.
+VPX-2026-0659v1	PALEKITE	2026-08-12	PALEKITE reports Wind-load estimates for 4 laminate families. Snapshot of VPX-2026-0659v1.
+VPX-2026-0714v1	QUILLBARK	2026-09-01	QUILLBARK reports Fibre orientation mapping on 30 samples. Snapshot of VPX-2026-0714v1.
+VPX-2026-0770v1	ROSEWELL	2026-09-24	ROSEWELL reports Two-field UAV inversion campaign. Snapshot of VPX-2026-0770v1.
+VPX-2026-0825v1	SILVERBRANCH	2026-10-14	SILVERBRANCH reports Forecasting model on 18-month exposure data. Snapshot of VPX-2026-0825v1.
+VPX-2026-0881v1	PALIMORPH	2026-09-08	PALIMORPH reports Phase retrieval on obscured coating samples. Snapshot of VPX-2026-0881v1.

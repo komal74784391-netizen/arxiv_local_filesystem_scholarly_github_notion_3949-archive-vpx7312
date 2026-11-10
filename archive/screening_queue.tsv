@@ -1,0 +1,40 @@
+# Q4 2026 revision audit - screening queue export
+# one row per planned manuscript; snippet is the catalogue snapshot at export time
+# fields: entry | token | topic | cutoff | snippet | snapshot
+entry	token	topic	cutoff	snippet	snapshot
+cinderwave-thermal	CINDERWAVE	edge inference	2025-04-30	VPX-2025-0416v1 (export 2025-04-30)	yes
+nimbusfoil-attention	NIMBUSFOIL	spectral sensing	2024-03-20	VPX-2024-0342v1 (export 2024-03-20)	no
+gravelight-denoising	GRAVELIGHT	field spectroscopy	2024-05-10	VPX-2024-0377v1 (export 2024-05-10)	no
+perihelion-drift	PERIHELION	cryogenic metrology	2024-06-20	VPX-2024-0408v1 (export 2024-06-20)	no
+thistledown-droplets	THISTLEDOWN	microfluidics	2024-08-01	VPX-2024-0451v1 (export 2024-08-01)	no
+obsidianflow-routing	OBSIDIANFLOW	materials pipelines	2024-09-15	VPX-2024-0489v1 (export 2024-09-15)	no
+saltmarsh-phases	SALTMARSH	alloy discovery	2024-10-31	VPX-2024-0523v1 (export 2024-10-31)	no
+nightglass-optics	NIGHTGLASS	diffractive optics	2026-02-28	NIGHTGLASS (not located in export)	no
+quarrystone-wear	QUARRYSTONE	wear testing	2024-12-05	VPX-2024-0561v1 (export 2024-12-05)	no
+lanternfish-cores	LANTERNFISH	marine geology	2025-02-10	VPX-2025-0104v1 (export 2025-02-10)	no
+bramblewick-calibration	BRAMBLEWICK	combinatorial screening	2025-03-20	VPX-2025-0158v1 (export 2025-03-20)	no
+foxglove-ellipsometry	FOXGLOVE	thin films	2025-04-30	VPX-2025-0212v1 (export 2025-04-30)	no
+ironweed-defects	IRONWEED	surface inspection	2025-05-20	VPX-2025-0265v1 (export 2025-05-20)	no
+moonglass-refraction	MOONGLASS	optical metrology	2025-06-15	VPX-2025-0318v1 (export 2025-06-15)	no
+riverthorn-impedance	RIVERTHORN	electrochemistry	2025-07-10	VPX-2025-0371v1 (export 2025-07-10)	no
+starlingmoth-textures	STARLINGMOTH	crystallography	2025-08-20	VPX-2025-0428v1 (export 2025-08-20)	no
+ashenloop-reconstruction	ASHENLOOP	tomography	2025-09-30	VPX-2025-0482v1 (export 2025-09-30)	no
+copperhaze-bands	COPPERHAZE	hyperspectral imaging	2025-11-05	VPX-2025-0536v1 (export 2025-11-05)	no
+dunewright-granular	DUNEWRIGHT	granular simulation	2025-12-01	VPX-2025-0591v1 (export 2025-12-01)	no
+emberlook-thermal	EMBERLOOK	battery diagnostics	2025-12-20	VPX-2025-0647v1 (export 2025-12-20)	no
+frostbloom-picking	FROSTBLOOM	cryo-electron microscopy	2026-02-15	VPX-2026-0103v1 (export 2026-02-15)	no
+glimmerfin-acoustics	GLIMMERFIN	acoustics	2026-03-05	VPX-2026-0159v1 (export 2026-03-05)	no
+verdantis-porosity	VERDANTIS	porous ceramics	2025-11-30	VERDANTIS (not located in export)	no
+hollowreed-resonance	HOLLOWREED	pipeline monitoring	2026-03-25	VPX-2026-0214v1 (export 2026-03-25)	no
+ivyshard-fracture	IVYSHARD	fracture mechanics	2026-04-15	VPX-2026-0270v1 (export 2026-04-15)	no
+juniperlace-permeability	JUNIPERLACE	porous media	2026-05-06	VPX-2026-0326v1 (export 2026-05-06)	no
+kelprider-bathymetry	KELPRIDER	bathymetry	2026-05-28	VPX-2026-0381v1 (export 2026-05-28)	no
+lumenquill-extraction	LUMENQUILL	document extraction	2026-06-18	VPX-2026-0437v1 (export 2026-06-18)	no
+mossglide-friction	MOSSGLIDE	soft robotics	2026-07-05	VPX-2026-0492v1 (export 2026-07-05)	no
+nightreed-wakeword	NIGHTREED	wake-word detection	2026-07-28	VPX-2026-0548v1 (export 2026-07-28)	no
+orchidvane-mixing	ORCHIDVANE	microreactors	2026-08-19	VPX-2026-0603v1 (export 2026-08-19)	no
+palekite-windload	PALEKITE	structural composites	2026-09-08	VPX-2026-0659v1 (export 2026-09-08)	no
+quillbark-fibres	QUILLBARK	fibre metrology	2026-09-28	VPX-2026-0714v1 (export 2026-09-28)	no
+rosewell-moisture	ROSEWELL	remote sensing	2026-10-21	VPX-2026-0770v1 (export 2026-10-21)	no
+silverbranch-corrosion	SILVERBRANCH	corrosion forecasting	2026-11-05	VPX-2026-0825v1 (export 2026-11-05)	no
+palimorph-coatings	PALIMORPH	phase retrieval	2026-06-30	PALIMORPH (registered 2026-09-08)	no
